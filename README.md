@@ -23,3 +23,6 @@ disanduandaima
 | Tables     | Are         | cool   |
 | ---------- |:-----------:| ------:|
 | col 3 is   | right-alihgt| $1700  |
+
+#### 图片
+![image text](https://github.com/lyp1992/Create-a.-or-frmaework/raw/master/build%20Active.png)
