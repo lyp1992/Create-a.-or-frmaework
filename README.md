@@ -19,3 +19,9 @@ armv7 arm64  说明就是真机。<br>
 	如果都正常的话，说明是没有问题的。接下来就是合并xx.framework中的xx二进制文件。<br>
 Lipo -create 第一个xx.framework 中xx二进制文件的路径    第二个xx.framework 中xx二进制文件的路径   -output ~/Desktop  xx   。然后把这个xx二进制文件替换点xx.framework中的xx二进制文件就可以了。<br>
 ![image text](https://github.com/lyp1992/Create-a.-or-frmaework/blob/master/personDetail.png)
+
+# 制作.a静态包<br>
+其实和制作framework的差不多，前三步都是一样的。这里我直接从第四步开始
+##### 4.把你创建的.h文件都公开
+###### 步骤是
+
