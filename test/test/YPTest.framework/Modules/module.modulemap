@@ -1,0 +1,6 @@
+framework module YPTest {
+  umbrella header "YPTest.h"
+
+  export *
+  module * { export * }
+}
